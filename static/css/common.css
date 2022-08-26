@@ -1,4 +1,4 @@
-@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont/style.css')
+@import url('./wenkai.css')
 html {
   color: #333333;
   background: #ffffff;
