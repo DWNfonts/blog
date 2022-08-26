@@ -1,4 +1,3 @@
-@import url('./wenkai.css')
 html {
   color: #333333;
   background: #ffffff;
@@ -9,9 +8,7 @@ html {
   text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* font-family: 'Cascadia Code', Consolas, Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif; 
-  原编者什么法营行为 */
-  font-family: 'LXGW WenKai Lite', sans-serif;
+  font-family: 'LXGW WenKai', sans-serif;
   
   overflow-y: overlay;
 }
@@ -59,7 +56,7 @@ textarea {
 }
 pre,
 code {
-  font-family: inherit;
+  font-family: 'LXGW WenKai Mono';
 }
 input:-webkit-autofill {
   /* 自动填充的文本颜色 */
